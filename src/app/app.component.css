@@ -1,0 +1,40 @@
+.c1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 400px;
+}
+
+.ctitle{
+    font-family: arial;
+    margin: 10px;
+    font-weight: bold;
+    color: rgb(150, 150, 150);
+
+}
+#button {
+    margin: 10px;
+    width: 6vw;
+}
+
+#button-holder {
+    margin: 10px;
+    padding: 10px;
+    display: flex;
+}
+
+
+#header1 {
+    font-family: arial;
+    color: rgb(179, 179, 179);
+}
+
+#content1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: grey;
+    margin-top: 20px;
+}
+
+#foot {
+    height: 10px;
+}
